@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otc.Utilities", "Otc.Utilities\Otc.Utilities.csproj", "{FCE79DE2-2C2B-454D-BF53-E39FFBD96DCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otc.Utilities.Tests", "..\Otc.Utilities.Tests\Otc.Utilities.Tests.csproj", "{8CBB8DF5-7FA5-44BF-99DA-301132549F79}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otc.Utilities.Tests", "Otc.Utilities.Tests\Otc.Utilities.Tests.csproj", "{8CBB8DF5-7FA5-44BF-99DA-301132549F79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
