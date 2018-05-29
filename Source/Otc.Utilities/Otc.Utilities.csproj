@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Matheus Neder &lt;matheusneder@gmail.com&gt;</Authors>
+    <Company>Ole Consignado</Company>
   </PropertyGroup>
 
 </Project>
