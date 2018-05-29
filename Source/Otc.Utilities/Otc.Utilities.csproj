@@ -4,6 +4,7 @@
     <TargetFramework>netstandard1.6</TargetFramework>
     <Authors>Ole Consignado</Authors>
     <Company>Ole Consignado</Company>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
