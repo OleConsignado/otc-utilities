@@ -1,2 +1,2 @@
-# otc-utilities
-.NET Standard miscellaneous utilities
+# Otc.Utilities
+.NET Standard miscellaneous utilities.
